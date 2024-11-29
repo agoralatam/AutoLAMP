@@ -9,10 +9,10 @@
 ![Captura de pantalla](https://github.com/agoralatam/AutoLAMP/blob/main/images/Screencast%202024-11-29%2001_29_30.gif?raw=true)
 ---
 ## Características Principales  
-  -Instalación de PHP
-  -Instalación de Apache
-  -Instalación de Mysql Server
-  -instalación de PhpMyAdmin
+- Instalación de PHP
+- Instalación de Apache
+- Instalación de Mysql Server
+- Instalación de PhpMyAdmin
 ---
 
 ## Requisitos del Sistema  
