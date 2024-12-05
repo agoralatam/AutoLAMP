@@ -26,7 +26,7 @@ echo -e ""
 
 # ---------------| Actualizando gestor de paquetes
 echo -e "$RED[+]$YELLOW Updating packages managers..."
-#apt update -qq && apt upgrade -qq -y > /dev/null 2>&1
+apt update -qq && apt upgrade -qq -y > /dev/null 2>&1
 
 # ---------------| Instalando Apache
 echo -e "$RED[+]$YELLOW Installing Apache..."
